@@ -65,7 +65,7 @@ private:
 	DWORD			m_Time2;
 	DWORD			m_Time3;
 	DWORD			m_Time4;
-
+	int A;
 	
 
 	//hong modify
